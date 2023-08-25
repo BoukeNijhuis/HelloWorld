@@ -1,4 +1,4 @@
-package qualogy;
+package example;
 
 public class HelloWorld {
 
