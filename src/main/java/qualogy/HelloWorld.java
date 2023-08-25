@@ -1,4 +1,4 @@
-package devbcn;
+package qualogy;
 
 public class HelloWorld {
 
